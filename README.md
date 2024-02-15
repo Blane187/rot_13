@@ -3,6 +3,9 @@
 simple code to convert plain text to codecs
 
 
+[click this if you want fork](https://github.com/AIHevpn/txt_to_codecs/forks)
+
+
 
 # how to use? 
 
