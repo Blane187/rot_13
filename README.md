@@ -1,9 +1,10 @@
-# txt_to_codecs
+<h1 align="center">rot_13</h1>
+<div align="center">
 
 simple code to convert plain text to codecs
 
 
-[click this if you want fork](https://github.com/AIHevpn/txt_to_codecs/forks)
+[click this if you want fork](https://github.com/Blane187/rot_13/forks)
 
 
 
