@@ -20,9 +20,6 @@ git clone https://github.com/Blane187/rot_13.git
 2. Open a terminal or command prompt.
 3. Run the script with Python:
 
-```
-python rot_13.py
-```
 
 ### Example
 
